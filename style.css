@@ -1,0 +1,27 @@
+
+body{
+    font-family: Arial;
+    text-align:center;
+    background:#222;
+    color:white;
+}
+
+.menu{
+    margin-top:50px;
+}
+
+.menu a{
+    display:block;
+    width:200px;
+    margin:20px auto;
+    padding:15px;
+    background:#ff6600;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+    font-size:20px;
+}
+
+.menu a:hover{
+    background:#ff3300;
+}
